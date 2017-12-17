@@ -1060,6 +1060,9 @@
 
     <!-- Box -->
     <item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box" />
+    
+    <!-- Boxcryptor -->
+    <item component="ComponentInfo{com.boxcryptor2.android/com.boxcryptor.android.ui.mvvm.presession.PreSessionActivity}" drawable="boxcryptor" />
 
     <!-- BoyAhoy -->
     <item component="ComponentInfo{com.boyahoy.android/com.skout.android.activities.Skout}" drawable="boyahoy"/>
@@ -1280,6 +1283,9 @@
 
     <!-- Cinemark_Snackbar -->
     <item component="ComponentInfo{com.cinemark/com.cinemark.MainActivity}" drawable="cinemark_snackbar"/>
+   
+    <!-- CinemaxX -->
+    <item component="ComponentInfo{de.cinemaxx/de.cinemaxx.activity.SplashActivity}" drawable="cinemaxx"/>
 
     <!-- Cinépolis -->
     <item component="ComponentInfo{air.Cinepolis/mx.com.ia.cinepolis4.ui.splash.SplashActivity}" drawable="cinepolis"/>
@@ -1495,7 +1501,10 @@
 
     <!-- CoSy_for_Facebook -->
     <item component="ComponentInfo{com.michaelflisar.cosy.facebook/com.michaelflisar.cosy.activities.MainActivity}" drawable="cosy_for_facebook"/>
-
+    
+    <!-- Counter -->
+    <item component="ComponentInfo{me.tsukanov.counter/me.tsukanov.counter.ui.MainActivity}" drawable="counter"/>
+    
     <!-- COUPIES -->
     <item component="ComponentInfo{de.coupies.android/de.coupies.android.activity.SplashScreen}" drawable="coupies"/>
 
@@ -1540,8 +1549,11 @@
     <item component="ComponentInfo{com.crowdscores.crowdscores/com.crowdscores.crowdscores.ui.base.EntryActivity}" drawable="crowdscores"/>
 
     <!-- Crunchyroll -->
-    <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.activities.SplashActivity}" drawable="crunchyrool" />
-
+    <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.crunchyroll.crunchyroid.activities.SplashActivity}" drawable="crunchyroll" />
+ 
+    <!-- Cryptomator -->
+    <item component="ComponentInfo{org.cryptomator/org.cryptomator.presentation.ui.activity.SplashActivity}" drawable="cryptomator" />
+    
     <!-- Crystal -->
     <item component="ComponentInfo{com.smithyproductions.crystal/com.smithyproductions.crystal.views.SketchesActivity}" drawable="crystal"/>
 
@@ -1889,6 +1901,9 @@
     <!-- Dunkin -->
     <item component="ComponentInfo{com.dunkinbrands.otgo/com.cardfree.android.dunkindonuts.activities.SplashActivity}" drawable="dunkin_donats"/>
 
+    <!-- Dunkin' Donuts Germany -->
+    <item component="ComponentInfo{de.xroot.dunkindonuts/de.xroot.dunkindonuts.ui.activity.MainActivity}" drawable="dunkin_donats"/>
+    
     <!-- Duolingo -->
     <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
 
@@ -2012,6 +2027,9 @@
 
     <!-- Evie -->
     <item component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" drawable="evie_launcher" />
+    
+    <!-- Evil Insult Generator -->
+    <item component="ComponentInfo{com.evilinsult.android/com.evilinsult.android.MainActivity}" drawable="evilinsultgenerator" />
 
     <!-- EVO Banco -->
     <item component="ComponentInfo{es.evobanco.bancamovil/com.evobanco.bmi.presentation.initialize.InitialActivity}" drawable="evo_blanco" />
@@ -3577,10 +3595,22 @@
 
     <!-- Libra -->
     <item component="ComponentInfo{net.cachapa.libra/net.cachapa.libra.Main}" drawable="libra"/>
+    
+    <!-- Liapp -->
+    <item component="ComponentInfo{de.cm.liapp/de.cm.liapp.MainActivity}" drawable="liapp"/>
+    
+    <!-- LibreLink -->
+    <item component="ComponentInfo{com.librelink.app/com.librelink.app.ui.SplashActivity}" drawable="librelink"/>
+    
+    <!-- LibreLinkUp -->
+    <item component="ComponentInfo{org.nativescript.LibreLinkUp/com.tns.NativeScriptActivity}" drawable="librelinkup"/>
 
     <!-- LibreOffice_Viewer -->
     <item component="ComponentInfo{org.documentfoundation.libreoffice/org.libreoffice.ui.LibreOfficeUIActivity}" drawable="libreoffice_viewer"/>
 
+    <!-- Lichess -->
+    <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess"/>
+    
     <!-- LIFX -->
     <item component="ComponentInfo{com.lifx.lifx/com.lifx.app.MainActivity}" drawable="lifx"/>
 
@@ -4628,6 +4658,9 @@
     <item component="ComponentInfo{com.olx.olx/com.olx.olx.ui.activities.SplashActivity}" drawable="olx" />
     <itemfolx component="ComponentInfo{com.olx.southasia/pl.tablica2.activities.MainActivity}" drawable="olx" />
     <itemfolx component="ComponentInfo{com.olx.southasia/pl.tablica2.activities.MainActivity}" drawable="olx" />
+    
+     <!-- OMGSoundboard -->
+    <item component="ComponentInfo{audio.omgsoundboard.android/audio.omgsoundboard.android.MainActivity}" drawable="omgsoundboard"/>
 
     <!-- OmniClock -->
     <item component="ComponentInfo{com.maxwen.deskclock/com.maxwen.deskclock.DeskClock}" drawable="omni_clock" />
@@ -5140,6 +5173,9 @@
 
     <!-- Plug for Instagram -->
     <item component="ComponentInfo{com.fb.instante/com.fb.instante.MainActivity}" drawable="plug_for_instagram"/>
+    
+    <!-- Plumble -->
+    <item component="ComponentInfo{com.morlunk.mumbleclient/com.morlunk.mumbleclient.app.PlumbleActivity}" drawable="plumble"/>
 
     <!-- Plus -->
     <item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="plus_messenger_new" />
@@ -5932,7 +5968,7 @@
     <!-- Sign -->
     <item component="ComponentInfo{com.mk.sign/com.mk.sign.splash.Splash}" drawable="sign_for_spotify" />
 
-    <!-- Signal -->
+    <!-- f -->
     <item component="ComponentInfo{org.thoughtcrime.securesms/org.thoughtcrime.securesms.RoutingActivity}" drawable="signal"/>
 
     <!-- Simpax -->
@@ -6720,6 +6756,9 @@
     <!-- Turbo VPN -->
     <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}" drawable="turbo_vpn" />
 
+    <!-- Tutanota -->
+    <item component="ComponentInfo{de.tutao.tutanota/de.tutao.tutanota.MainActivity}" drawable="tutanota" />
+    
     <!-- TVCast -->
     <item component="ComponentInfo{com.gfuentesdev.myiptvcast/com.gfuentesdev.myiptvcast.SplashActivity}" drawable="tvcast" />
 
@@ -7068,6 +7107,9 @@
     <!-- Walnut -->
     <item component="ComponentInfo{com.daamitt.walnut.app/com.daamitt.walnut.app.MainActivity}" drawable="walnut"/>
 
+    <!-- Wallabag -->
+    <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.MainActivity}" drawable="wallabag"/>
+    
     <!-- WallBoard -->
     <item component="ComponentInfo{com.antalex.wallboard/com.antalex.wallboard.activities.SplashActivity}" drawable="wallboard"/>
 
