@@ -9,6 +9,6 @@ Currently have 3200, but i update it every week with 100 new ones.
 Its free for Download?
 Yes, totally free.
 
-Any other thing you want to ask me, you can find me on Twitter (twitter.com/Axinen) or Google+ (https://plus.google.com/u/0/118165724975982745420)
+Any other thing you want to ask me, you can find me on Twitter (https://twitter.com/Axinen) or Google+ (https://plus.google.com/u/0/118165724975982745420)
 
 
